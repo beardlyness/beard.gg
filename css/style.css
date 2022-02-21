@@ -314,7 +314,7 @@ p a {
 }
 
 p a:hover {
-	color: #fff;
+	color: #23a75a;
   padding: 3px;
   border-radius: 2px;
   transition:ease 200ms;
@@ -741,6 +741,17 @@ li.terms {
   text-align: center;
 }
 
+li.pbody {
+  font-size: 14px;
+  font-family: "Raleway", sans-serif;
+  line-height: 2em;
+  padding: 10px 30px 10px 30px;
+  width: 65%;
+  margin: auto;
+  text-align: center;
+}
+
+
 address {
   display: inline-block;
   width:25%;
@@ -945,7 +956,7 @@ td.hljs-ln-line.hljs-ln-numbers {
     .row {
       width: 100%;
     }
-    
+
     summary {
         margin: 10px;
       }
@@ -996,6 +1007,15 @@ td.hljs-ln-line.hljs-ln-numbers {
   ul.nameserver-dropdown {
     max-height: 360px;
     margin: auto;
+  }
+  
+  li.pbody {
+    font-size: 10px;
+    font-family: "Raleway", sans-serif;
+    line-height: 2em;
+    padding: 10px 30px 10px 30px;
+    margin: auto;
+    text-align: center;
   }
 
 }
