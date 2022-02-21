@@ -78,7 +78,7 @@
                 </svg>
         </a>
         <p>&copy;<script>new Date().getFullYear()>2010&&document.write(new Date().getFullYear());</script> | Beard</p>
-        <p>If you like what I do; then why not check out: <a href="https:/tv.beard.gg">TV.beard.GG</a></p>
+        <p>If you like what I do; then why not check out: <a href="https://tv.beard.gg">TV.beard.GG</a></p>
         </footer>
      </body>
     </html>
