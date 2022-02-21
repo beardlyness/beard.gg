@@ -12,11 +12,11 @@
         <div class="contentBox">
           <p class="pasted">
             <h4>Personal Contact Details:</h4>
-              <p>Twitter: <a href="https://twitter.com/beardlyness">@beardlyness</a></p>
-              <p>Wire: <a href="https://app.wire.com/">@beardlyness</a></p>
-              <p>Discord: <a href="https://discord.gg">#beard0001</a></p>
-              <p>Reddit: <a href="https://reddit.com/u/BeardGG">/u/BeardGG</a></p>
-              <p>Email: <a href="mailto:neck [AT] beard [DOT] gg">neck [AT] beard [DOT] gg</a></p>
+              <li class="pbody">Twitter: <a href="https://twitter.com/beardlyness">@beardlyness</a></li>
+              <li class="pbody">Wire: <a href="https://app.wire.com/">@beardlyness</a></li>
+              <li class="pbody">Discord: <a href="https://discord.gg">#beard0001</a></li>
+              <li class="pbody">Reddit: <a href="https://reddit.com/u/BeardGG">/u/BeardGG</a></li>
+              <li class="pbody">Email: <a href="mailto:neck [AT] beard [DOT] gg">neck [AT] beard [DOT] gg</a></li>
             </p>
           </div>
         </div>
