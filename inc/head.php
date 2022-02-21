@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Welcome to Beards personal website!">
-    <meta name="keywords" content="beard, BeardlyOG, beardlyness, cryptoworld, Crypto World, Crypto World Foundation, Kernel.is, xmpp.is, torworld, TorWorld, fastrelay, Fast Relay">
+    <meta name="keywords" content="beard, BeardlyOG, beardlyness">
     <meta name="robots" content="index, follow">
 
     <!-- Stylesheets -->
@@ -27,11 +27,4 @@
     <link rel="icon" type="image/png" href="images/media/favicon-196x196.png" sizes="196x196" />
     <link rel="icon" type="image/png" href="images/media/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/png" href="images/media/favicon-32x32.png" sizes="32x32" />
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
-    <!--[if lt IE 9]>
-      <script src="/js/html5shiv.js"></script>
-      <script src="/js/respond.min.js"></script>
-    <![endif]-->
-
   </head>
