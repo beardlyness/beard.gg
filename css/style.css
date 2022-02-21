@@ -489,6 +489,7 @@ footer a {
 
 footer a:hover {
   background-color: #2ed573;
+  color: #fff;
   border-radius: 2px;
 
 }
